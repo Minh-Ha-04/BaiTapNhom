@@ -1,4 +1,4 @@
-package com.example.nhatro.model;
+package com.example.baitapnhom.model;
 
 public class Phong {
     private String maPhong;

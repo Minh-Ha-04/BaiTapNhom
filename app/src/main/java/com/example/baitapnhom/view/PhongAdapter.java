@@ -1,4 +1,4 @@
-package com.example.nhatro.view;
+package com.example.baitapnhom.view;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -10,8 +10,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
-import com.example.nhatro.R;
-import com.example.nhatro.model.Phong;
+import com.example.baitapnhom.R;
+import com.example.baitapnhom.model.Phong;
 import java.text.NumberFormat;
 import java.util.List;
 import java.util.Locale;

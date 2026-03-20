@@ -1,4 +1,4 @@
-package com.example.BaiTapNhom10;
+package com.example.baitapnhom;
 
 import android.os.Bundle;
 import android.text.Editable;
@@ -10,7 +10,7 @@ import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
-import com.example.nhatro.model.Phong;
+import com.example.baitapnhom.model.Phong;
 import java.text.NumberFormat;
 import java.util.Locale;
 

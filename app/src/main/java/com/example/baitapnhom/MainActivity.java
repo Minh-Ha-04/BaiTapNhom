@@ -1,4 +1,4 @@
-package com.example.BaiTapNhom10;
+package com.example.baitapnhom;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -16,9 +16,9 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
-import com.example.BaiTapNhom10.controller.PhongController;
-import com.example.BaiTapNhom10.model.Phong;
-import com.example.BaiTapNhom10.view.PhongAdapter;
+import com.example.baitapnhom.controller.PhongController;
+import com.example.baitapnhom.model.Phong;
+import com.example.baitapnhom.view.PhongAdapter;
 import com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton;
 import java.util.List;
 

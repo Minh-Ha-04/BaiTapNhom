@@ -1,6 +1,6 @@
-package com.example.nhatro.controller;
+package com.example.baitapnhom.controller;
 
-import com.example.nhatro.model.Phong;
+import com.example.baitapnhom.model.Phong;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Collections;
